@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/drive-dock.clar"
 depends_on = []
 
+[contracts.payment]
+path = "contracts/payment.clar"
+depends_on = []
+
 [contracts.reputation]
 path = "contracts/reputation.clar"
 depends_on = []
